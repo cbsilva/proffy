@@ -2,6 +2,7 @@
 .input-block label,
 .textarea-block label {
     font-size: 1.4rem;
+    line-height: 2.4rem;
     color: var(--color-text-complement);
 }
 
